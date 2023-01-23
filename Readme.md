@@ -23,7 +23,7 @@ This page focuses on positioning of image using background property and adding s
 
 ## Deployed Version Link
 
-- [Live Demo]()
+- [Live Demo](https://law-home-page-op.netlify.app/)
 
 ## Snapshot of Webpage
 
